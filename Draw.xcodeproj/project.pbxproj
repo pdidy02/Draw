@@ -17,10 +17,10 @@
 		14D2CD17178E4F560027F93B /* Pegleg Pete.png in Resources */ = {isa = PBXBuildFile; fileRef = 14D2CD09178E4F560027F93B /* Pegleg Pete.png */; };
 		14D2CD18178E4F560027F93B /* Pitch Fork Parker.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 14D2CD0A178E4F560027F93B /* Pitch Fork Parker.jpg */; };
 		14D2CD19178E4F560027F93B /* Sassy Sophie.png in Resources */ = {isa = PBXBuildFile; fileRef = 14D2CD0B178E4F560027F93B /* Sassy Sophie.png */; };
-		14D2CD1A178E4F560027F93B /* Strong Steve.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 14D2CD0C178E4F560027F93B /* Strong Steve.jpg */; };
 		14D2CD1B178E4F560027F93B /* Trigger Finnger Tony.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 14D2CD0D178E4F560027F93B /* Trigger Finnger Tony.jpg */; };
 		14D2CD1C178E4F560027F93B /* whistlin wesley.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 14D2CD0E178E4F560027F93B /* whistlin wesley.jpg */; };
 		14D2CD1E178E52670027F93B /* Krazy Kage.png in Resources */ = {isa = PBXBuildFile; fileRef = 14D2CD1D178E52670027F93B /* Krazy Kage.png */; };
+		14D2CD20178E571E0027F93B /* Strong Steve.png in Resources */ = {isa = PBXBuildFile; fileRef = 14D2CD1F178E571E0027F93B /* Strong Steve.png */; };
 		2C0CEE86178DD05D0082D196 /* Backround.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C0CEE85178DD05D0082D196 /* Backround.jpg */; };
 		2C0CEE88178DD2150082D196 /* 1 shooter.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C0CEE87178DD2150082D196 /* 1 shooter.png */; };
 		2C0CEE8A178DD21C0082D196 /* 2 shooter.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C0CEE89178DD21C0082D196 /* 2 shooter.png */; };
@@ -80,10 +80,10 @@
 		14D2CD09178E4F560027F93B /* Pegleg Pete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Pegleg Pete.png"; path = "../../../Downloads/drawcharacters/Pegleg Pete.png"; sourceTree = "<group>"; };
 		14D2CD0A178E4F560027F93B /* Pitch Fork Parker.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Pitch Fork Parker.jpg"; path = "../../../Downloads/drawcharacters/Pitch Fork Parker.jpg"; sourceTree = "<group>"; };
 		14D2CD0B178E4F560027F93B /* Sassy Sophie.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Sassy Sophie.png"; path = "../../../Downloads/drawcharacters/Sassy Sophie.png"; sourceTree = "<group>"; };
-		14D2CD0C178E4F560027F93B /* Strong Steve.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Strong Steve.jpg"; path = "../../../Downloads/drawcharacters/Strong Steve.jpg"; sourceTree = "<group>"; };
 		14D2CD0D178E4F560027F93B /* Trigger Finnger Tony.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Trigger Finnger Tony.jpg"; path = "../../../Downloads/drawcharacters/Trigger Finnger Tony.jpg"; sourceTree = "<group>"; };
 		14D2CD0E178E4F560027F93B /* whistlin wesley.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "whistlin wesley.jpg"; path = "../../../Downloads/drawcharacters/whistlin wesley.jpg"; sourceTree = "<group>"; };
 		14D2CD1D178E52670027F93B /* Krazy Kage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Krazy Kage.png"; path = "../../../Downloads/drawcharacters/Krazy Kage.png"; sourceTree = "<group>"; };
+		14D2CD1F178E571E0027F93B /* Strong Steve.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Strong Steve.png"; path = "../../../Downloads/drawcharacters/Strong Steve.png"; sourceTree = "<group>"; };
 		2C0CEE85178DD05D0082D196 /* Backround.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Backround.jpg; sourceTree = "<group>"; };
 		2C0CEE87178DD2150082D196 /* 1 shooter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1 shooter.png"; sourceTree = "<group>"; };
 		2C0CEE89178DD21C0082D196 /* 2 shooter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2 shooter.png"; sourceTree = "<group>"; };
@@ -259,7 +259,7 @@
 				14D2CD09178E4F560027F93B /* Pegleg Pete.png */,
 				14D2CD0A178E4F560027F93B /* Pitch Fork Parker.jpg */,
 				14D2CD0B178E4F560027F93B /* Sassy Sophie.png */,
-				14D2CD0C178E4F560027F93B /* Strong Steve.jpg */,
+				14D2CD1F178E571E0027F93B /* Strong Steve.png */,
 				14D2CD0D178E4F560027F93B /* Trigger Finnger Tony.jpg */,
 				14D2CD0E178E4F560027F93B /* whistlin wesley.jpg */,
 				2C9C795A16E850ED006C8FB0 /* Supporting Files */,
@@ -346,6 +346,7 @@
 				14D2CD18178E4F560027F93B /* Pitch Fork Parker.jpg in Resources */,
 				2C0CEE8C178DD2210082D196 /* 3 shooter.png in Resources */,
 				2C0CEE88178DD2150082D196 /* 1 shooter.png in Resources */,
+				14D2CD20178E571E0027F93B /* Strong Steve.png in Resources */,
 				2C9C796816E850ED006C8FB0 /* Default@2x.png in Resources */,
 				2C0CEE8E178DD2260082D196 /* 4 Shooter.png in Resources */,
 				2C9D7A5A178E557600FF0E1D /* whistlin wesley.jpg in Resources */,
@@ -353,7 +354,6 @@
 				14D2CD1E178E52670027F93B /* Krazy Kage.png in Resources */,
 				2C9C797716E85130006C8FB0 /* MainStoryboard.storyboard in Resources */,
 				2C0CEE90178DD22F0082D196 /* 5 shooter.png in Resources */,
-				14D2CD1A178E4F560027F93B /* Strong Steve.jpg in Resources */,
 				2C0CEE92178DD2320082D196 /* 6 shooter.png in Resources */,
 				14D2CD0F178E4F560027F93B /* Brave Becky.png in Resources */,
 				2C9D7A58178E557600FF0E1D /* Strong Steve.jpg in Resources */,

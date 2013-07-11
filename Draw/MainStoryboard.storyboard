@@ -702,39 +702,6 @@
         <image name="Sassy Sophie.png" width="185" height="272"/>
         <image name="Trigger Finnger Tony.jpg" width="714" height="1200"/>
     </resources>
-    <classes>
-        <class className="AccelerometerViewController" superclassName="UIViewController">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/AccelerometerViewController.h"/>
-            <relationships>
-                <relationship kind="action" name="reload:"/>
-                <relationship kind="outlet" name="bamLabel" candidateClass="UILabel"/>
-                <relationship kind="outlet" name="outOfAmmo" candidateClass="UILabel"/>
-                <relationship kind="outlet" name="shots" candidateClass="UILabel"/>
-                <relationship kind="outlet" name="xBar" candidateClass="UIProgressView"/>
-                <relationship kind="outlet" name="xLabel" candidateClass="UILabel"/>
-                <relationship kind="outlet" name="yBar" candidateClass="UIProgressView"/>
-                <relationship kind="outlet" name="yLabel" candidateClass="UILabel"/>
-                <relationship kind="outlet" name="zBar" candidateClass="UIProgressView"/>
-                <relationship kind="outlet" name="zLabel" candidateClass="UILabel"/>
-            </relationships>
-        </class>
-        <class className="CharacterPackViewController" superclassName="UITableViewController">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/CharacterPackViewController.h"/>
-        </class>
-        <class className="Match_Finder" superclassName="UIViewController">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/Match_Finder.h"/>
-            <relationships>
-                <relationship kind="action" name="hostMatch:" candidateClass="NSArray"/>
-                <relationship kind="outlet" name="background" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="enemyAvatar" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="localAvatar" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="matchedPlayer" candidateClass="UILabel"/>
-            </relationships>
-        </class>
-        <class className="ViewController" superclassName="UIViewController">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/ViewController.h"/>
-        </class>
-    </classes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
         <simulatedOrientationMetrics key="orientation"/>

@@ -50,6 +50,20 @@
 		2C9C797016E850ED006C8FB0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C9C796F16E850ED006C8FB0 /* ViewController.m */; };
 		2C9C797716E85130006C8FB0 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C9C797616E8512F006C8FB0 /* MainStoryboard.storyboard */; };
 		2C9C797B16E85A30006C8FB0 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C9C797A16E85A30006C8FB0 /* CoreLocation.framework */; };
+		2C9D7A4D178E557600FF0E1D /* Brave Becky.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C9D7A3F178E557600FF0E1D /* Brave Becky.png */; };
+		2C9D7A4E178E557600FF0E1D /* Buisnessman Bill.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C9D7A40178E557600FF0E1D /* Buisnessman Bill.jpg */; };
+		2C9D7A4F178E557600FF0E1D /* Crazy Cody.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C9D7A41178E557600FF0E1D /* Crazy Cody.jpg */; };
+		2C9D7A50178E557600FF0E1D /* Dead Eye Dan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C9D7A42178E557600FF0E1D /* Dead Eye Dan.jpg */; };
+		2C9D7A51178E557600FF0E1D /* Dirty Dale.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C9D7A43178E557600FF0E1D /* Dirty Dale.jpg */; };
+		2C9D7A52178E557600FF0E1D /* Hammer Henry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C9D7A44178E557600FF0E1D /* Hammer Henry.jpg */; };
+		2C9D7A53178E557600FF0E1D /* Krazy Kage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C9D7A45178E557600FF0E1D /* Krazy Kage.jpg */; };
+		2C9D7A54178E557600FF0E1D /* Money Matt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C9D7A46178E557600FF0E1D /* Money Matt.jpg */; };
+		2C9D7A55178E557600FF0E1D /* Pegleg Pete.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C9D7A47178E557600FF0E1D /* Pegleg Pete.png */; };
+		2C9D7A56178E557600FF0E1D /* Pitch Fork Parker.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C9D7A48178E557600FF0E1D /* Pitch Fork Parker.jpg */; };
+		2C9D7A57178E557600FF0E1D /* Sassy Sophie.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C9D7A49178E557600FF0E1D /* Sassy Sophie.png */; };
+		2C9D7A58178E557600FF0E1D /* Strong Steve.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C9D7A4A178E557600FF0E1D /* Strong Steve.jpg */; };
+		2C9D7A59178E557600FF0E1D /* Trigger Finnger Tony.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C9D7A4B178E557600FF0E1D /* Trigger Finnger Tony.jpg */; };
+		2C9D7A5A178E557600FF0E1D /* whistlin wesley.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C9D7A4C178E557600FF0E1D /* whistlin wesley.jpg */; };
 		2CB430DA178D401F00B1D4D3 /* Six shooter pics in Resources */ = {isa = PBXBuildFile; fileRef = 2CB430D9178D401F00B1D4D3 /* Six shooter pics */; };
 		2CD6F8C816ECE1AC0029689F /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2CD6F8C716ECE1AC0029689F /* GameKit.framework */; };
 		2CDDA451170A2C2100480E63 /* Match Finder.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CDDA450170A2C2100480E63 /* Match Finder.m */; };
@@ -113,6 +127,20 @@
 		2C9C796F16E850ED006C8FB0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		2C9C797616E8512F006C8FB0 /* MainStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard.storyboard; sourceTree = "<group>"; };
 		2C9C797A16E85A30006C8FB0 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		2C9D7A3F178E557600FF0E1D /* Brave Becky.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Brave Becky.png"; sourceTree = "<group>"; };
+		2C9D7A40178E557600FF0E1D /* Buisnessman Bill.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Buisnessman Bill.jpg"; sourceTree = "<group>"; };
+		2C9D7A41178E557600FF0E1D /* Crazy Cody.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Crazy Cody.jpg"; sourceTree = "<group>"; };
+		2C9D7A42178E557600FF0E1D /* Dead Eye Dan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Dead Eye Dan.jpg"; sourceTree = "<group>"; };
+		2C9D7A43178E557600FF0E1D /* Dirty Dale.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Dirty Dale.jpg"; sourceTree = "<group>"; };
+		2C9D7A44178E557600FF0E1D /* Hammer Henry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Hammer Henry.jpg"; sourceTree = "<group>"; };
+		2C9D7A45178E557600FF0E1D /* Krazy Kage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Krazy Kage.jpg"; sourceTree = "<group>"; };
+		2C9D7A46178E557600FF0E1D /* Money Matt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Money Matt.jpg"; sourceTree = "<group>"; };
+		2C9D7A47178E557600FF0E1D /* Pegleg Pete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pegleg Pete.png"; sourceTree = "<group>"; };
+		2C9D7A48178E557600FF0E1D /* Pitch Fork Parker.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pitch Fork Parker.jpg"; sourceTree = "<group>"; };
+		2C9D7A49178E557600FF0E1D /* Sassy Sophie.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sassy Sophie.png"; sourceTree = "<group>"; };
+		2C9D7A4A178E557600FF0E1D /* Strong Steve.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Strong Steve.jpg"; sourceTree = "<group>"; };
+		2C9D7A4B178E557600FF0E1D /* Trigger Finnger Tony.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Trigger Finnger Tony.jpg"; sourceTree = "<group>"; };
+		2C9D7A4C178E557600FF0E1D /* whistlin wesley.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "whistlin wesley.jpg"; sourceTree = "<group>"; };
 		2CA742FE1766D1250038EB2F /* SpriteKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SpriteKit.framework; path = System/Library/Frameworks/SpriteKit.framework; sourceTree = SDKROOT; };
 		2CB430D9178D401F00B1D4D3 /* Six shooter pics */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Six shooter pics"; path = "../Six shooter pics"; sourceTree = "<group>"; };
 		2CD6F8C716ECE1AC0029689F /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
@@ -180,6 +208,20 @@
 		2C9C795916E850ED006C8FB0 /* Draw */ = {
 			isa = PBXGroup;
 			children = (
+				2C9D7A3F178E557600FF0E1D /* Brave Becky.png */,
+				2C9D7A40178E557600FF0E1D /* Buisnessman Bill.jpg */,
+				2C9D7A41178E557600FF0E1D /* Crazy Cody.jpg */,
+				2C9D7A42178E557600FF0E1D /* Dead Eye Dan.jpg */,
+				2C9D7A43178E557600FF0E1D /* Dirty Dale.jpg */,
+				2C9D7A44178E557600FF0E1D /* Hammer Henry.jpg */,
+				2C9D7A45178E557600FF0E1D /* Krazy Kage.jpg */,
+				2C9D7A46178E557600FF0E1D /* Money Matt.jpg */,
+				2C9D7A47178E557600FF0E1D /* Pegleg Pete.png */,
+				2C9D7A48178E557600FF0E1D /* Pitch Fork Parker.jpg */,
+				2C9D7A49178E557600FF0E1D /* Sassy Sophie.png */,
+				2C9D7A4A178E557600FF0E1D /* Strong Steve.jpg */,
+				2C9D7A4B178E557600FF0E1D /* Trigger Finnger Tony.jpg */,
+				2C9D7A4C178E557600FF0E1D /* whistlin wesley.jpg */,
 				2CB430D9178D401F00B1D4D3 /* Six shooter pics */,
 				2C48B167176A42550069BDFF /* MultiplayerViewController.h */,
 				2C48B168176A42550069BDFF /* MultiplayerViewController.m */,
@@ -295,7 +337,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C9D7A4D178E557600FF0E1D /* Brave Becky.png in Resources */,
 				2C9C795E16E850ED006C8FB0 /* InfoPlist.strings in Resources */,
+				2C9D7A50178E557600FF0E1D /* Dead Eye Dan.jpg in Resources */,
 				2C0CEE94178DD2360082D196 /* no ammo.png in Resources */,
 				2C9C796616E850ED006C8FB0 /* Default.png in Resources */,
 				2C393FD0178D32B100DAC11D /* Media.xcassets in Resources */,
@@ -304,6 +348,7 @@
 				2C0CEE88178DD2150082D196 /* 1 shooter.png in Resources */,
 				2C9C796816E850ED006C8FB0 /* Default@2x.png in Resources */,
 				2C0CEE8E178DD2260082D196 /* 4 Shooter.png in Resources */,
+				2C9D7A5A178E557600FF0E1D /* whistlin wesley.jpg in Resources */,
 				2C9C796A16E850ED006C8FB0 /* Default-568h@2x.png in Resources */,
 				14D2CD1E178E52670027F93B /* Krazy Kage.png in Resources */,
 				2C9C797716E85130006C8FB0 /* MainStoryboard.storyboard in Resources */,
@@ -311,21 +356,32 @@
 				14D2CD1A178E4F560027F93B /* Strong Steve.jpg in Resources */,
 				2C0CEE92178DD2320082D196 /* 6 shooter.png in Resources */,
 				14D2CD0F178E4F560027F93B /* Brave Becky.png in Resources */,
+				2C9D7A58178E557600FF0E1D /* Strong Steve.jpg in Resources */,
 				14D2CD16178E4F560027F93B /* Money Matt.jpg in Resources */,
+				2C9D7A54178E557600FF0E1D /* Money Matt.jpg in Resources */,
+				2C9D7A55178E557600FF0E1D /* Pegleg Pete.png in Resources */,
 				14D2CD13178E4F560027F93B /* Dirty Dale.jpg in Resources */,
 				14D2CD11178E4F560027F93B /* Crazy Cody.jpg in Resources */,
 				2C49A7E416FAADA2002CC28A /* Cowboy_Theme-Pavak-1711860633.mp3 in Resources */,
+				2C9D7A56178E557600FF0E1D /* Pitch Fork Parker.jpg in Resources */,
 				14D2CD19178E4F560027F93B /* Sassy Sophie.png in Resources */,
 				2C49A7E616FBC940002CC28A /* Gun_Loaded_Cocked_and_Shot-KP-1152148084.mp3 in Resources */,
 				14D2CD12178E4F560027F93B /* Dead Eye Dan.jpg in Resources */,
 				14D2CD10178E4F560027F93B /* Buisnessman Bill.jpg in Resources */,
+				2C9D7A4E178E557600FF0E1D /* Buisnessman Bill.jpg in Resources */,
 				14D2CD14178E4F560027F93B /* Hammer Henry.jpg in Resources */,
+				2C9D7A4F178E557600FF0E1D /* Crazy Cody.jpg in Resources */,
+				2C9D7A57178E557600FF0E1D /* Sassy Sophie.png in Resources */,
 				2CB430DA178D401F00B1D4D3 /* Six shooter pics in Resources */,
 				14D2CD17178E4F560027F93B /* Pegleg Pete.png in Resources */,
 				2C0CEE8A178DD21C0082D196 /* 2 shooter.png in Resources */,
+				2C9D7A53178E557600FF0E1D /* Krazy Kage.jpg in Resources */,
+				2C9D7A52178E557600FF0E1D /* Hammer Henry.jpg in Resources */,
 				14D2CD1B178E4F560027F93B /* Trigger Finnger Tony.jpg in Resources */,
 				14D2CD1C178E4F560027F93B /* whistlin wesley.jpg in Resources */,
 				2C0CEE86178DD05D0082D196 /* Backround.jpg in Resources */,
+				2C9D7A59178E557600FF0E1D /* Trigger Finnger Tony.jpg in Resources */,
+				2C9D7A51178E557600FF0E1D /* Dirty Dale.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
